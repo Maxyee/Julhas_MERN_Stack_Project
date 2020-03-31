@@ -12,3 +12,13 @@ project will hold all of this elements into it. For instance, components, hooks,
 Finally, I will connect those two end (frontend + backend) after that I will test the file upload section and authentication.If all of the things is ok then i will deploy the software into the production server.
 
 
+## Frontend Structure (ReactJS)
+
+Now Lets look out how I use reactjs and all of its elements. below picture give me the clear idea how to use all of those elements.
+
+![alt text](https://github.com/Maxyee/Julhas_MERN_Stack_Project/blob/master/shotsPart2/frontendStructure.png)
+
+Basically, React is a SPA application which means Single Palge Application. However, I can also create the multi page 
+application using reactjs. For making multi page application I need to use the `Redux Architecture` because it has the 
+state management facilities. Another way we can make multi page application which is called `Hooks`. In addition, Reactjs is a component base application where I can create `Class` for every different components. For manipulation all of these 
+components I should use `Routes`. This Routes tell me that which component will load first and which will be load last.
