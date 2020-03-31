@@ -2,8 +2,14 @@
 In this repository, I will describe all the MERN Stack technology and my work process. How to connect all the technology
 and how to make a project by using those technologies. I will also describe my knowledge in software development as well as 
 how I understand and how I work with my self-learning. However, most of the javascript developer they have a lot of facination 
-about working those MERN technologies because this the way they can learn the full-stack development in javascript. I have a lot
+about working those MERN technologies because this is the way they can learn the full-stack development in javascript. I have a lot
 of fascination with those technologies too. As a result, I also learned that knowledge so that I can be a good developer in javascript MERN stack. I have a little bit of knowledge on C#, Python, and Java but I am trying to enrich my knowledge every day.
+
+Below links, I provided that will show how I process my work, the Structure and the projects I made.
+
+1. [Process](https://github.com/Maxyee/Julhas_MERN_Stack_Project/tree/master/Process)
+2. [Structure](https://github.com/Maxyee/Julhas_MERN_Stack_Project/tree/master/Structure)
+
 
 Let's start the main topic of this repository work on javascript. Here I mentioned the MERN Stack, It means the four core 
 technologies used in javascript
