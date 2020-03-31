@@ -22,6 +22,9 @@ From the picture, I have the idea of which technology is used for which work. Mo
 framework where I will write the logic for the API, React is a library of javascript for handing user in frontend side. Last but not
 the least, NodeJs which is boss of all these technologies because it runs all of them.
 
+
+## Database
+
 ![alt text](https://github.com/Maxyee/Julhas_MERN_Stack_Project/blob/master/shotsPart1/mongodb.png)
 
 At first, I will describe the database section. There are a lot database section in this programming
@@ -29,5 +32,24 @@ world such as SQL, MySQL, PostgreSQL, MongoDB etc. Database can be categorized i
 
 SQL database have relational tables where I used foreign key to coneect two tables. On the other hand, NoSQL database they do
 not need those relational activity between tables. Most of the famous software is running on NOSQL database. On the contrary,
-for this repository about MERN stack development, I will always work with the mongobd database which has the facility of NoSQL activities.
+for this repository about MERN stack development, I will always work with the mongobd database which has the facility of NoSQL activities. In addition, From the picture, I have the idea what other things i can do using this mongoDB database.
 
+## Express
+
+![alt text](https://github.com/Maxyee/Julhas_MERN_Stack_Project/blob/master/shotsPart1/express.png)
+
+Secondly, I already mentioned `Express` briefly on the top section. Moreover, I am going to describe it more into this section. In addition, Express is a node framework which is mosly used for writing logic or code in the server side. From my 
+Asp.net MVC/C# experience, I always write logic in a controller for API work I write logic in API controller. Express is kind
+of that controller for MERN stack development. It has the facilities of creating functionalities, Middleware, view routing, API methods etc. Thats all, I share from my knowledge.
+
+## React
+
+![alt text](https://github.com/Maxyee/Julhas_MERN_Stack_Project/blob/master/shotsPart1/react.png)
+
+Thirdly, I am going to describe the ReactJS. React is a javascript library and it is built by facebook. Furthermore, most of
+the frontend developer use this react technology for their work. I also love react for my frontend work. It is really easy to
+maintain as well as I can structure it in my own way thats why I like it most. It has state manegment facilities, hooks, props, components etc. Not only it easy to structure but it also has the SPA application facilities.
+
+## Node
+
+![alt text](https://github.com/Maxyee/Julhas_MERN_Stack_Project/blob/master/shotsPart1/node.png)
