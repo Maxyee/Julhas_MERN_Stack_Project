@@ -20,12 +20,16 @@ Now we will see that our development server is running for frontend react into t
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Screenshot is given for better understanding, how we start our development server.
+### My install process frontend
 
-screen shot
+Screenshot is given for better understanding, how I start my development server.
 
-After opening the browser we will get this UI .
+![alt text](https://github.com/Maxyee/Julhas_MERN_Stack_Project/blob/master/shotsPart2/frontendNPM.png)
 
-screen shot
+After completing the install process then run another command `npm install`
+
+Finally, opening the browser and I get this UI .
+
+![alt text](https://github.com/Maxyee/Julhas_MERN_Stack_Project/blob/master/shotsPart2/beforeAddProduct.png)
 
 
