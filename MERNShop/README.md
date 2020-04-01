@@ -1,7 +1,7 @@
 # MERN Shop
 This project is basically divided into two part one is frontend and another is backend. However earlier I mentioned my work
 process as well as achitecture. Now I implemented a simple SPA application using `ReactJS` and `ExpressJS` both are running 
-on the `NodeJS` runtime. I did not user any mongoDB database here. On my next project I will use the MongoDB database too.
+on the `NodeJS` runtime. I did not use any mongoDB database here. On my next project, I will use the MongoDB database too.
 
 ## Frontend Installation
 For running this project, we need to run two project separetly from two different terminal. Lets start the frontend part 
