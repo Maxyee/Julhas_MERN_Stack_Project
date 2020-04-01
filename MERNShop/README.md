@@ -12,7 +12,7 @@ simply type command into you `terminal` for Linux/ `command propmt` for windows 
 
 `npm install`
 
-I command will download all of the node-modules package into our project. After that, run another command
+This command will download all of the node-modules package into our project. After that, run another command
 
 `npm start`
 
