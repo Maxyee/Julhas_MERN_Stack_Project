@@ -22,3 +22,10 @@ Basically, React is a SPA application which means Single Palge Application. Howe
 application using reactjs. For making multi page application I need to use the `Redux Architecture` because it has the 
 state management facilities. Another way we can make multi page application which is called `Hooks`. In addition, Reactjs is a component base application where I can create `Class` for every different components. For manipulation all of these 
 components I should use `Routes`. This Routes tell me that which component will load first and which will be load last.
+
+## Backend Structure
+For the backend section, I always use the REST API for data passing in any kind of project. From my previous project experience, I make those API logic with a return value called JSON value. Logic means the Method or the Function which is created for a specific work or reason.
+
+![alt text](https://github.com/Maxyee/Julhas_MERN_Stack_Project/blob/master/shotsPart2/backendStructure.png)
+
+The above picture shows that we can make the Backend API using two different architecture. One is called REST API which I always use to do my work.Another is called GraphQL API but both code is executed on the Server.
