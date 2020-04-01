@@ -10,6 +10,8 @@ Below links, I provided that will show how I process my work, the Structure and 
 1. [Process](https://github.com/Maxyee/Julhas_MERN_Stack_Project/tree/master/Process)
 2. [Structure](https://github.com/Maxyee/Julhas_MERN_Stack_Project/tree/master/Structure)
 
+Projects
+1. [MERNShop](https://github.com/Maxyee/Julhas_MERN_Stack_Project/tree/master/MERNShop)
 
 Let's start the main topic of this repository work on javascript. Here I mentioned the MERN Stack, It means the four core 
 technologies used in javascript
