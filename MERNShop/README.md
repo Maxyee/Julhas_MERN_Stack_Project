@@ -33,3 +33,19 @@ Finally, opening the browser and I get this UI .
 ![alt text](https://github.com/Maxyee/Julhas_MERN_Stack_Project/blob/master/shotsPart2/beforeAddProduct.png)
 
 
+## Backend Installation
+For running the backend server, At first, I switched to backend folder and then ran this following command through
+my vs code IDE terminal
+
+`npm install`
+
+This command will download all of the node-modules package into our project. After that, run another command
+
+`npm start`
+
+Now we will see that our development server is running for frontend react into the port 5000. Because into the `server.js`
+file I initialize the port number 5000 . below screenshot will help us to understand
+
+
+
+
