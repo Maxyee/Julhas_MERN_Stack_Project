@@ -64,3 +64,13 @@ maintain as well as I can structure it in my own way thats why I like it most. I
 
 Lastly, NodeJs is a Server Side runtime, its besically handles the requrest and response with the database. On the other hand, it execute the logic to the server side. As i already mentioned that Express which is used for writing logic and code 
 and all of those code is executed by this node. In addition, nodejs intract with the database as well as files etc.
+
+## Contributors
+
+- Md Julhas Hossain
+
+## License & copyright
+
+© Md Julhas Hossain, Self Learning Software Development
+
+Licensed under the [MIT License](LICENSE)
